@@ -1,4 +1,5 @@
-Olá! Sou Josué Jorge👋
+#Olá! Sou Josué Jorge👋
+
 
 🎯 Sou QA Engineer Specialist — Software Developer in Test
 
@@ -12,11 +13,15 @@ Olá! Sou Josué Jorge👋
 
 📙 Atualmente cursando Especialização em Testes Ágeis (ETA) na CESAR School, ampliando minha atuação em qualidade de software, e este é meu portfólio:
 
-🌐 Portfólio: https://josuejorge.github.io
 
-🌐 Linkedin: https://www.linkedin.com/in/josue-jorge/
 
-Certificações
+🌐 **Portfólio:** https://josuejorge.github.io
+
+🌐 **Linkedin:** https://www.linkedin.com/in/josue-jorge/
+
+
+
+##Certificações
 
 🏅 CTAL — ISTQB Certified Tester Advanced Level
 
@@ -27,59 +32,87 @@ Certificações
 🏅 AZ-900 — Microsoft Azure Fundamentals
 
 
-Idiomas 
+
+
+##Idiomas 
 
 🇬🇧 Ingês Avançado
 
 🇪🇸 Espanhol Intermediário
 
-Principais Competências
 
-🧪 Automação de Testes
+
+##Principais Competências
+
+
+
+###🧪 Automação de Testes
 
 Robot Framework • Playwright • Cypress • Selenium • JUnit • Cucumber • Mockito • REST Assured • TOSCA
 
-🔌 Testes de API
+
+
+###🔌 Testes de API
 
 REST Assured • Playwright API • Robot Framework • REST • SOAP • Postman • Insomnia • Swagger
 
-📱 Mobile Testing
+
+
+###📱 Mobile Testing
 
 Appium • Flutter • BrowserStack • AWS Device Farm • Android Studio • WebDriverIO
 
-🚀 Testes de Performance
+
+
+###🚀 Testes de Performance
 
 k6 • JMeter • Carga • Estresse • Pico
 
-🧠 Estratégias de Teste
+
+
+###🧠 Estratégias de Teste
 
 Funcionais • Automatizados • Exploratórios • Regressivos • Smoke • Integração • Acessibilidade • UAT / E2E • BDD / Gherkin • Caixa Preta • Shift-Left Testing
 
-💻 Linguagens
+
+
+###💻 Linguagens
 
 Python • Java • JavaScript • TypeScript • SQL
 
-🗄️ Bancos de Dados
+
+
+###🗄️ Bancos de Dados
 
 PostgreSQL • Oracle • SQL Server • MongoDB • Redis
 
-⚙️ CI/CD & Build
+
+
+###⚙️ CI/CD & Build
 
 Jenkins • GitHub Actions • Azure DevOps • Maven • Tomcat • Git • Flyway
 
-☁️ Cloud
+
+
+###☁️ Cloud
 
 AWS • Google Cloud Platform • Google Kubernetes Engine • Azure DevOps
 
-📦 Infra & Mensageria
+
+
+###📦 Infra & Mensageria
 
 Docker • Docker Compose • Portainer • Kubernetes • Nginx • Keycloak • RabbitMQ
 
-📊 Observabilidade
+
+
+###📊 Observabilidade
 
 Grafana • Prometheus • SonarQube
 
-🤖 IA aplicada a Dev & Testes
+
+
+###🤖 IA aplicada a Dev & Testes
 
 Cursor • Claude Code • Codex • Antigravity • OpenCode
 
